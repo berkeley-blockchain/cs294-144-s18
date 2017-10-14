@@ -5,9 +5,10 @@
 | [Adam Sterling](https://www.law.berkeley.edu/our-faculty/faculty-profiles/adam-sterling/) | [Gregory La Blanc](http://facultybio.haas.berkeley.edu/faculty-list/lablanc-gregory/) | [Dawn Song](https://people.eecs.berkeley.edu/~dawnsong/) | [Raymond Cheng](https://raymondcheng.net/about) |
 
 ## Teaching Assistants
-| ![](https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAjAAAAAJGUwMjU4ZmUyLWEwMjktNGIwNy04MjFkLWFkZDZhN2Y3MTc2Zg.jpg) |
-| --- |
-| [Howard Wu](https://github.com/howardwu) |
+
+| ![](https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAjAAAAAJGUwMjU4ZmUyLWEwMjktNGIwNy04MjFkLWFkZDZhN2Y3MTc2Zg.jpg) | |
+| --- | --- |
+| [Howard Wu](https://github.com/howardwu) | |
 
 ## Office Hours
 TBD
@@ -39,7 +40,7 @@ If you are in the course, you may sign up on [Piazza](piazza.com/berkeley/spring
   <tbody>
     <tr>
       <td>01/15</td>
-      <td></td>
+      <td>Martin Luther King Jr. Day - No Class</td>
       <td></td>
       <td></td>
       <td></td>
@@ -74,7 +75,7 @@ If you are in the course, you may sign up on [Piazza](piazza.com/berkeley/spring
     </tr>
     <tr>
       <td>02/19</td>
-      <td></td>
+      <td>President's Day - No Class</td>
       <td></td>
       <td></td>
       <td></td>
@@ -109,7 +110,7 @@ If you are in the course, you may sign up on [Piazza](piazza.com/berkeley/spring
     </tr>
     <tr>
       <td>03/26</td>
-      <td></td>
+      <td>Spring Recess - No Class</td>
       <td></td>
       <td></td>
       <td></td>
