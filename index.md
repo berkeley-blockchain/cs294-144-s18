@@ -15,7 +15,27 @@ TBD
 ## Mailing list and Piazza
 
 ## Syllabus
-
+<table style="table-layout: fixed; font-size: 88%;">
+  <thead>
+    <tr>
+      <th style="width: 5%;">Date</th>
+      <th style="width: 17%;">Speaker</th>
+      <th style="width: 50%;">Readings</th>
+      <th style="width: 20%;">Talk</th>
+      <th style="width: 8%;">Deadlines</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    
+  </tbody>
+</table>
 
 ## Course description
 Blockchain is one of the most significant technologies to impact law and business in many years. This course will provide an overview of the technology and code behind blockchain and explore current and potential real-world applications in technology, business, and law. 
