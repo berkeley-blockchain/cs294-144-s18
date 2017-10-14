@@ -1,10 +1,13 @@
 ## Instructors
 
-| ![](https://www.law.berkeley.edu/wp-content/uploads/2016/10/sterling_adam_210x270-210x270.jpg)  | ![](http://facultybio.haas.berkeley.edu/wp-content/uploads/lablanc2.JPG) | ![](https://people.eecs.berkeley.edu/~dawnsong/dawn-berkeley.jpg) | ![](https://raymondcheng.net/img/pic/me.jpg) |  ![](https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAjAAAAAJGUwMjU4ZmUyLWEwMjktNGIwNy04MjFkLWFkZDZhN2Y3MTc2Zg.jpg) | 
+| ![](https://www.law.berkeley.edu/wp-content/uploads/2016/10/sterling_adam_210x270-210x270.jpg)  | ![](http://facultybio.haas.berkeley.edu/wp-content/uploads/lablanc2.JPG) | ![](https://people.eecs.berkeley.edu/~dawnsong/dawn-berkeley.jpg) | ![](https://raymondcheng.net/img/pic/me.jpg) | 
 | --- | --- | --- | --- |
-| [Adam Sterling](https://www.law.berkeley.edu/our-faculty/faculty-profiles/adam-sterling/) | [Gregory La Blanc](http://facultybio.haas.berkeley.edu/faculty-list/lablanc-gregory/) | [Dawn Song](https://people.eecs.berkeley.edu/~dawnsong/) | [Raymond Cheng](https://raymondcheng.net/about) | [Howard Wu](https://github.com/howardwu)
+| [Adam Sterling](https://www.law.berkeley.edu/our-faculty/faculty-profiles/adam-sterling/) | [Gregory La Blanc](http://facultybio.haas.berkeley.edu/faculty-list/lablanc-gregory/) | [Dawn Song](https://people.eecs.berkeley.edu/~dawnsong/) | [Raymond Cheng](https://raymondcheng.net/about) |
 
 ## Teaching Assistants
+| ![](https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAjAAAAAJGUwMjU4ZmUyLWEwMjktNGIwNy04MjFkLWFkZDZhN2Y3MTc2Zg.jpg) |
+| --- |
+| [Howard Wu](https://github.com/howardwu) |
 
 ## Office Hours
 TBD
