@@ -138,31 +138,17 @@ If you are in the course, you may sign up on [Piazza](piazza.com/berkeley/spring
     </tr>
     <tr>
       <td>04/23</td>
+      <td>Final Project Presentations</td>
       <td></td>
       <td></td>
       <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>04/30</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>05/07</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td>Final Exam Week</td>
     </tr>
     
   </tbody>
 </table>
 
 ## Course description
-Blockchain is one of the most significant technologies to impact law and business in many years. This course will provide an overview of the technology and code behind blockchain and explore current and potential real-world applications in technology, business, and law. 
+Blockchain is one of the most significant technologies to impact law and business in many years. Blockchain is also one of the most interdisciplinary areas, bringing together new questions and opportunities at the intersection of technology, business and law. This course is designed to employ this interdisciplinary nature. We will provide an overview of the technology behind blockchain and explore current and potential real-world applications in technology, business, and law. 
 
 ## Class format and project
 This is a lecture, discussion, and project oriented class. Each lecture will focus on one of the topics, including a survey of the state-of-the-art in the area and an in-depth discussion of the topic. Each week, students are expected to complete reading assignments before class and participate actively in class discussion.
@@ -170,7 +156,16 @@ This is a lecture, discussion, and project oriented class. Each lecture will foc
 Students will also form project groups (6 people per group: 2 from EECS, 2 from Haas, 2 from Boalt) and complete a high-impact class project. The final project/deliverable will be small team presentation on a new application of blockchain (with a legal and business analysis). 
 
 ## Enrollment information
-**For EECS Students**: Enrollment is limited. If you would like to enroll in the class, please fill out **[this form](https://docs.google.com/forms/d/e/1FAIpQLSdZwHGIEMQsFjZGxKEPclZEbaqfVMWQlalbGwJWm_Fb5_T_DQ/viewform?usp=sf_link)** and come to the first lecture of the class. Accepted students will be given instructor codes to be allowed to register for the class after the first lecture of the class.
+
+Enrollment is limited. If you would like to enroll in the class, please apply based on your home department:
+
+**For EECS/Engineering Students**: Please fill out **[this form](https://docs.google.com/forms/d/e/1FAIpQLSdZwHGIEMQsFjZGxKEPclZEbaqfVMWQlalbGwJWm_Fb5_T_DQ/viewform?usp=sf_link)** 
+
+**For Law Students**: Please send to [asterling@law.berkeley.edu](mailto:asterling@law.berkeley.edu), a copy of your resume and a short comment (2-3 sentences) on why you are interested in the course.
+
+**For Business Students**: Please follow the department bidding process.
+
+All accepted students should come to the first lecture of the class, where you will be given instructor codes to be allowed to register for the class after the first lecture of the class.
 
 ## Deadlines
 TBD
@@ -179,5 +174,5 @@ TBD
 TBD
 
 ## Additional Notes
-For students who need computing resources for the class project, we recommend you to look into AWS educate program for students. You’ll get 100 dollar’s worth of sign up credit. Here’s the link .
+For students who need computing resources for the class project, we recommend you to look into AWS educate program for students. You’ll get 100 dollar’s worth of sign up credit. Here’s the [link](https://aws.amazon.com/education/awseducate/apply/).
 
