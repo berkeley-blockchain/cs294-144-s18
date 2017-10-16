@@ -10,9 +10,6 @@
 | --- | --- |
 | [Howard Wu](https://github.com/howardwu) | |
 
-## Office Hours
-TBD
-
 ## Lectures
 
 **Time**: Monday 6:00--8:00 pm
@@ -26,126 +23,6 @@ To receive announcements on information about the course, including distinguishe
 
 If you are in the course, you may sign up on [Piazza](piazza.com/berkeley/spring2018/cs294144) and request to join the [Google group](https://groups.google.com/forum/#!forum/cs294-144-s18).
 
-## Syllabus
-<table style="table-layout: fixed; font-size: 88%;">
-  <thead>
-    <tr>
-      <th style="width: 5%;">Date</th>
-      <th style="width: 17%;">Speaker</th>
-      <th style="width: 50%;">Readings</th>
-      <th style="width: 20%;">Talk</th>
-      <th style="width: 8%;">Deadlines</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>01/15</td>
-      <td>Martin Luther King Jr. Day - No Class</td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>01/22</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>01/29</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>02/05</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>02/12</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>02/19</td>
-      <td>President's Day - No Class</td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>02/26</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>03/05</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>03/12</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>03/19</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>03/26</td>
-      <td>Spring Recess - No Class</td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>04/02</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>04/09</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>04/16</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>04/23</td>
-      <td>Final Project Presentations</td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    
-  </tbody>
-</table>
 
 ## Course description
 Blockchain is one of the most significant technologies to impact law and business in many years. Blockchain is also one of the most interdisciplinary areas, bringing together new questions and opportunities at the intersection of technology, business and law. This course is designed to employ this interdisciplinary nature. We will provide an overview of the technology behind blockchain and explore current and potential real-world applications in technology, business, and law. 
@@ -167,11 +44,7 @@ Enrollment is limited. If you would like to enroll in the class, please apply ba
 
 All accepted students should come to the first lecture of the class, where you will be given instructor codes to be allowed to register for the class after the first lecture of the class.
 
-## Deadlines
-TBD
 
-## Grading
-TBD
 
 ## Additional Notes
 For students who need computing resources for the class project, we recommend you to look into AWS educate program for students. You’ll get 100 dollar’s worth of sign up credit. Here’s the [link](https://aws.amazon.com/education/awseducate/apply/).
