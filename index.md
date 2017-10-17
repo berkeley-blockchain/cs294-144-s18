@@ -3,7 +3,7 @@
 | ![](https://raymondcheng.net/img/pic/me.jpg) | ![](http://facultybio.haas.berkeley.edu/wp-content/uploads/lablanc2.JPG) | ![](https://people.eecs.berkeley.edu/~dawnsong/dawn-berkeley.jpg) |  ![](https://www.law.berkeley.edu/wp-content/uploads/2016/10/sterling_adam_210x270-210x270.jpg) |
 | --- | --- | --- | --- |
 | [Raymond Cheng](https://raymondcheng.net/about) | [Gregory La Blanc](http://facultybio.haas.berkeley.edu/faculty-list/lablanc-gregory/) | [Dawn Song](https://people.eecs.berkeley.edu/~dawnsong/) | [Adam Sterling](https://www.law.berkeley.edu/our-faculty/faculty-profiles/adam-sterling/) |
-| Postdoc [EECS](https://eecs.berkeley.edu/) | Lecturer, [Haas](http://haas.berkeley.edu/) | Professor [EECS](https://eecs.berkeley.edu/) | Executive Director, [Berkeley Center for Law, Business and the Economy](https://www.law.berkeley.edu/research/berkeley-center-for-law-business-and-the-economy/)
+| Postdoc, [EECS](https://eecs.berkeley.edu/) | Lecturer, [Haas](http://haas.berkeley.edu/) | Professor, [EECS](https://eecs.berkeley.edu/) | Executive Director, [Berkeley Center for Law, Business and the Economy](https://www.law.berkeley.edu/research/berkeley-center-for-law-business-and-the-economy/)
 
 
 ## Teaching Assistant
