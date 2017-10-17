@@ -19,7 +19,7 @@
 
 ## Piazza and Mailing List
 
-To receive announcements on information about the course, including distinguished guest speakers and blockchain-related talks at Berkeley, please sign up for the [Google group](https://groups.google.com/forum/#!forum/berkeley-blockchain) mailing list for future announcements.
+To receive announcements on information about the course, including distinguished guest speakers and blockchain-related talks at Berkeley, please sign up for the [Google group](https://groups.google.com/forum/#!forum/berkeley-blockchain) mailing list for future announcements. Some classes will be open to the public and will be announced on this list.
 
 If you are in the course, you may sign up on [Piazza](https://piazza.com/berkeley/spring2018/cs294144) and request to join the [Google group](https://groups.google.com/forum/#!forum/cs294-144-s18).
 
