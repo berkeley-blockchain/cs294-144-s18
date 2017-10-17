@@ -18,7 +18,7 @@
     </tr>
     <tr>
       <td>Postdoc, <a href="https://eecs.berkeley.edu/">EECS</a></td>
-      <td>Lecturer, <a href="http://haas.berkeley.edu/">Haas</a></td>
+      <td>Lecturer, <a href="http://haas.berkeley.edu/">Haas Business School</a></td>
       <td>Professor, <a href="https://eecs.berkeley.edu/">EECS</a></td>
       <td>Executive Director, <a href="https://www.law.berkeley.edu/research/berkeley-center-for-law-business-and-the-economy/">Berkeley Center for Law, Business and the Economy</a></td>
     </tr>
