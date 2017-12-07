@@ -53,7 +53,7 @@ Blockchain is one of the most significant technologies to impact law and busines
   <thead>
     <tr>
       <th style="width: 5%;">Date</th>
-      <th style="width: 17%;">Speaker</th>
+      <th style="width: 17%;">Topic</th>
       <th style="width: 50%;">Readings</th>
       <th style="width: 20%;">Talk</th>
       <th style="width: 8%;">Deadlines</th>
@@ -69,28 +69,28 @@ Blockchain is one of the most significant technologies to impact law and busines
     </tr>
     <tr>
       <td>01/22</td>
-      <td></td>
+      <td>What is Money?</td>
       <td></td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <td>01/29</td>
-      <td></td>
+      <td>Technical primer on Bitcoin, cryptocurrencies, smart contracts, and blockchains</td>
       <td></td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <td>02/05</td>
-      <td></td>
+      <td>Guest Panel on Decentralized Applications</td>
       <td></td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <td>02/12</td>
-      <td></td>
+      <td>Payments</td>
       <td></td>
       <td></td>
       <td></td>
@@ -104,28 +104,28 @@ Blockchain is one of the most significant technologies to impact law and busines
     </tr>
     <tr>
       <td>02/26</td>
-      <td></td>
+      <td>Guest Panel on Payments</td>
       <td></td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <td>03/05</td>
-      <td></td>
+      <td>Finance, Securities and Regulation</td>
       <td></td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <td>03/12</td>
-      <td></td>
+      <td>Guest Panel on ICOs</td>
       <td></td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <td>03/19</td>
-      <td></td>
+      <td>Mid-term Project Presentations</td>
       <td></td>
       <td></td>
       <td></td>
@@ -139,27 +139,41 @@ Blockchain is one of the most significant technologies to impact law and busines
     </tr>
     <tr>
       <td>04/02</td>
-      <td></td>
+      <td>Advanced Technical Topics and Open Challenges: Scalability, Security, Privacy</td>
       <td></td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <td>04/09</td>
-      <td></td>
+      <td>Guest Panel on Future Protocols</td>
       <td></td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <td>04/16</td>
-      <td></td>
+      <td>Logistics and Supply Chain</td>
       <td></td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <td>04/23</td>
+      <td>Guest Panel: Blockchain in 2040</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>04/30</td>
+      <td>Reading Week - No Class</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>05/07</td>
       <td>Final Project Presentations</td>
       <td></td>
       <td></td>
