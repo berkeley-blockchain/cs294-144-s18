@@ -48,6 +48,142 @@ If you are in the course, you may sign up on [Piazza](https://piazza.com/berkele
 ## Course description
 Blockchain is one of the most significant technologies to impact law and business in many years. Blockchain is also one of the most interdisciplinary areas, bringing together new questions and opportunities at the intersection of technology, business and law. This course is designed to employ this interdisciplinary nature. We will provide an overview of the technology behind blockchain and explore current and potential real-world applications in technology, business, and law. 
 
+## Syllabus
+<table style="table-layout: fixed; font-size: 88%;">
+  <thead>
+    <tr>
+      <th style="width: 5%;">Date</th>
+      <th style="width: 17%;">Topic</th>
+      <th style="width: 50%;">Readings</th>
+      <th style="width: 20%;">Talk</th>
+      <th style="width: 8%;">Deadlines</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>01/15</td>
+      <td>No Class - Martin Luther King Jr. Day</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>01/22</td>
+      <td>What is Money?</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>01/29</td>
+      <td>Technical primer on Bitcoin, cryptocurrencies, smart contracts, and blockchains</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>02/05</td>
+      <td>Guest Panel on Decentralized Applications</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>02/12</td>
+      <td>Payments</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>02/19</td>
+      <td>No Class - President's Day</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>02/26</td>
+      <td>Guest Panel on Payments</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>03/05</td>
+      <td>Finance, Securities and Regulation</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>03/12</td>
+      <td>Guest Panel on ICOs</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>03/19</td>
+      <td>Mid-term Project Presentations</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>03/26</td>
+      <td>No Class - Spring Recess</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>04/02</td>
+      <td>Advanced Technical Topics and Open Challenges: Scalability, Security, Privacy</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>04/09</td>
+      <td>Guest Panel on Future Protocols</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>04/16</td>
+      <td>Logistics and Supply Chain</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>04/23</td>
+      <td>Guest Panel: Blockchain in 2040</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>04/30</td>
+      <td>No Class - Reading Week</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>05/07</td>
+      <td>Final Project Presentations</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    
+  </tbody>
+</table>
+
+
 ## Class format and project
 This is a lecture, discussion, and project oriented class. Each lecture will focus on one of the topics, including a survey of the state-of-the-art in the area and an in-depth discussion of the topic. Each week, students are expected to complete reading assignments before class and participate actively in class discussion.
 
