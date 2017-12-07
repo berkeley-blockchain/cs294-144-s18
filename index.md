@@ -53,10 +53,10 @@ Blockchain is one of the most significant technologies to impact law and busines
   <thead>
     <tr>
       <th style="width: 5%;">Date</th>
-      <th style="width: 17%;">Topic</th>
+      <th style="width: 45%;">Topic</th>
       <th style="width: 50%;">Readings</th>
       <th style="width: 20%;">Talk</th>
-      <th style="width: 8%;">Deadlines</th>
+      <th style="width: 10%;">Deadlines</th>
     </tr>
   </thead>
   <tbody>
