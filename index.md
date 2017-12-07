@@ -62,7 +62,7 @@ Blockchain is one of the most significant technologies to impact law and busines
   <tbody>
     <tr>
       <td>01/15</td>
-      <td>Martin Luther King Jr. Day - No Class</td>
+      <td>No Class - Martin Luther King Jr. Day</td>
       <td></td>
       <td></td>
       <td></td>
@@ -97,7 +97,7 @@ Blockchain is one of the most significant technologies to impact law and busines
     </tr>
     <tr>
       <td>02/19</td>
-      <td>President's Day - No Class</td>
+      <td>No Class - President's Day</td>
       <td></td>
       <td></td>
       <td></td>
@@ -132,7 +132,7 @@ Blockchain is one of the most significant technologies to impact law and busines
     </tr>
     <tr>
       <td>03/26</td>
-      <td>Spring Recess - No Class</td>
+      <td>No Class - Spring Recess</td>
       <td></td>
       <td></td>
       <td></td>
@@ -167,7 +167,7 @@ Blockchain is one of the most significant technologies to impact law and busines
     </tr>
     <tr>
       <td>04/30</td>
-      <td>Reading Week - No Class</td>
+      <td>No Class - Reading Week</td>
       <td></td>
       <td></td>
       <td></td>
