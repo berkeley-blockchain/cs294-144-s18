@@ -53,7 +53,8 @@ Blockchain is one of the most significant technologies to impact law and busines
   <thead>
     <tr>
       <th style="width: 5%;">Date</th>
-      <th style="width: 45%;">Topic</th>
+      <th style="width: 5%;">Location</th>
+      <th style="width: 40%;">Topic</th>
       <th style="width: 50%;">Readings</th>
       <th style="width: 20%;">Talk</th>
       <th style="width: 10%;">Deadlines</th>
@@ -62,6 +63,7 @@ Blockchain is one of the most significant technologies to impact law and busines
   <tbody>
     <tr>
       <td>01/15</td>
+      <td></td>
       <td>No Class - Martin Luther King Jr. Day</td>
       <td></td>
       <td></td>
@@ -69,6 +71,7 @@ Blockchain is one of the most significant technologies to impact law and busines
     </tr>
     <tr>
       <td>01/22</td>
+      <td>Chou Hall Room N270</td>
       <td>What is Money?</td>
       <td></td>
       <td></td>
@@ -76,6 +79,7 @@ Blockchain is one of the most significant technologies to impact law and busines
     </tr>
     <tr>
       <td>01/29</td>
+      <td>Chou Hall Room N270</td>
       <td>Technical primer on Bitcoin, cryptocurrencies, smart contracts, and blockchains</td>
       <td></td>
       <td></td>
@@ -83,6 +87,7 @@ Blockchain is one of the most significant technologies to impact law and busines
     </tr>
     <tr>
       <td>02/05</td>
+      <td>Boalt Hall Room 110</td>
       <td>Guest Panel on Decentralized Applications</td>
       <td></td>
       <td></td>
@@ -90,6 +95,7 @@ Blockchain is one of the most significant technologies to impact law and busines
     </tr>
     <tr>
       <td>02/12</td>
+      <td>Chou Hall Room N270</td>
       <td>Payments</td>
       <td></td>
       <td></td>
@@ -97,6 +103,7 @@ Blockchain is one of the most significant technologies to impact law and busines
     </tr>
     <tr>
       <td>02/19</td>
+      <td></td>
       <td>No Class - President's Day</td>
       <td></td>
       <td></td>
@@ -104,20 +111,23 @@ Blockchain is one of the most significant technologies to impact law and busines
     </tr>
     <tr>
       <td>02/26</td>
-      <td>Guest Panel on Payments</td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>03/05</td>
+      <td>Chou Hall Room N270</td>
       <td>Finance, Securities and Regulation</td>
       <td></td>
       <td></td>
       <td></td>
     </tr>
     <tr>
+      <td>03/05</td>
+      <td>Boalt Hall Room 110</td>
+      <td>Guest Panel on Payments</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
       <td>03/12</td>
+      <td>Boalt Hall Room 110</td>
       <td>Guest Panel on ICOs</td>
       <td></td>
       <td></td>
@@ -125,6 +135,7 @@ Blockchain is one of the most significant technologies to impact law and busines
     </tr>
     <tr>
       <td>03/19</td>
+      <td>Chou Hall Room N270</td>
       <td>Mid-term Project Presentations</td>
       <td></td>
       <td></td>
@@ -132,6 +143,7 @@ Blockchain is one of the most significant technologies to impact law and busines
     </tr>
     <tr>
       <td>03/26</td>
+      <td></td>
       <td>No Class - Spring Recess</td>
       <td></td>
       <td></td>
@@ -139,6 +151,7 @@ Blockchain is one of the most significant technologies to impact law and busines
     </tr>
     <tr>
       <td>04/02</td>
+      <td>Chou Hall Room N270</td>
       <td>Advanced Technical Topics and Open Challenges: Scalability, Security, Privacy</td>
       <td></td>
       <td></td>
@@ -146,6 +159,7 @@ Blockchain is one of the most significant technologies to impact law and busines
     </tr>
     <tr>
       <td>04/09</td>
+      <td>Boalt Hall Room 110</td>
       <td>Guest Panel on Future Protocols</td>
       <td></td>
       <td></td>
@@ -153,6 +167,7 @@ Blockchain is one of the most significant technologies to impact law and busines
     </tr>
     <tr>
       <td>04/16</td>
+      <td>Chou Hall Room N270</td>
       <td>Logistics and Supply Chain</td>
       <td></td>
       <td></td>
@@ -160,6 +175,7 @@ Blockchain is one of the most significant technologies to impact law and busines
     </tr>
     <tr>
       <td>04/23</td>
+      <td>Boalt Hall Room 110</td>
       <td>Guest Panel: Blockchain in 2040</td>
       <td></td>
       <td></td>
@@ -167,6 +183,7 @@ Blockchain is one of the most significant technologies to impact law and busines
     </tr>
     <tr>
       <td>04/30</td>
+      <td></td>
       <td>No Class - Reading Week</td>
       <td></td>
       <td></td>
@@ -174,6 +191,7 @@ Blockchain is one of the most significant technologies to impact law and busines
     </tr>
     <tr>
       <td>05/07</td>
+      <td>Chou Hall Room N270</td>
       <td>Final Project Presentations</td>
       <td></td>
       <td></td>
