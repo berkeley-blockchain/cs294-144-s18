@@ -73,7 +73,7 @@ Blockchain is one of the most significant technologies to impact law and busines
       <td>01/22</td>
       <td>Chou N570</td>
       <td>What is Money?</td>
-      <td></td>
+      <td><a href="https://is.muni.cz/el/1456/podzim2009/MPE_MOEK/um/8972262/menger1892.pdf">On the Origin of Money</a></td>
       <td></td>
       <td></td>
     </tr>
@@ -81,7 +81,7 @@ Blockchain is one of the most significant technologies to impact law and busines
       <td>01/29</td>
       <td>Chou N570</td>
       <td>Technical primer on Bitcoin, cryptocurrencies, smart contracts, and blockchains</td>
-      <td></td>
+      <td><a href="https://bitcoin.org/bitcoin.pdf">Bitcoin White Paper</a><br /><a href="https://github.com/ethereum/wiki/wiki/White-Paper">Ethereum White Paper</a></td>
       <td></td>
       <td></td>
     </tr>
@@ -91,7 +91,7 @@ Blockchain is one of the most significant technologies to impact law and busines
       <td>Finance, Securities and Regulation</td>
       <td></td>
       <td></td>
-      <td></td>
+      <td>Team Formation Due 2/5</td>
     </tr>
     <tr>
       <td>02/12</td>
@@ -99,7 +99,7 @@ Blockchain is one of the most significant technologies to impact law and busines
       <td>Guest Panel on ICOs</td>
       <td></td>
       <td></td>
-      <td></td>
+      <td>Project Proposals due 2/18</td>
     </tr>
     <tr>
       <td>02/19</td>
@@ -131,7 +131,7 @@ Blockchain is one of the most significant technologies to impact law and busines
       <td>Mid-term Project Presentations</td>
       <td></td>
       <td></td>
-      <td></td>
+      <td>Mid-term deadline</td>
     </tr>
     <tr>
       <td>03/19</td>
@@ -195,7 +195,7 @@ Blockchain is one of the most significant technologies to impact law and busines
       <td>Final Project Presentations</td>
       <td></td>
       <td></td>
-      <td></td>
+      <td>Final Project Deliverables due</td>
     </tr>
     
   </tbody>
@@ -217,6 +217,9 @@ Enrollment is very limited. If you would like to enroll in the class, please fol
 
 **For Business Students**: Please follow the department bidding process.
 
+## Additional Readings
+
+[Bitcoin and Cryptocurrency Technologies](http://bitcoinbook.cs.princeton.edu/) - Free introductory book available on website
 
 ## Additional Notes
 For students who need computing resources for the class project, we recommend you to look into AWS educate program for students. You’ll get 100 dollar’s worth of sign up credit. Here’s the [link](https://aws.amazon.com/education/awseducate/apply/).
