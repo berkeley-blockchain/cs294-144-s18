@@ -35,7 +35,7 @@
 
 **Time**: Monday 6:00--8:00 pm
 
-**Location**: Lectures in Chou N270, Guest Panels in Boalt 110
+**Location**: Lectures in Chou N570, Guest Panels in Boalt 110
 
 
 ## Piazza and Mailing List
