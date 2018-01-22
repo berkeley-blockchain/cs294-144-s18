@@ -217,7 +217,7 @@ Enrollment is very limited. If you would like to enroll in the class, please fol
 
 **For Business Students**: Please follow the department bidding process.
 
-## Additional Readings
+## Supplemental Reading
 
 [Bitcoin and Cryptocurrency Technologies](http://bitcoinbook.cs.princeton.edu/) - Free introductory book available on website
 
