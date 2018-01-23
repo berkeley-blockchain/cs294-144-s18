@@ -229,6 +229,18 @@ Enrollment is very limited. If you would like to enroll in the class, please fol
 
 [Bitcoin and Cryptocurrency Technologies](http://bitcoinbook.cs.princeton.edu/) - Free introductory book available on website
 
+## Frequently Asked Questions
+
+**Is there space in this class?**
+As of now, all seats in the class have been filled.
+
+**Can I audit the class?**
+Unfortunately, space constraints keep us from allowing students to audit the class. Some guest panels will be open to the public. Please sign up for our [public mailing list](https://groups.google.com/forum/#!forum/berkeley-blockchain) to get notifications.
+
+**Will lectures be recorded?**
+Yes. We are recording all lectures and guest panels. Please sign up for our [public mailing list](https://groups.google.com/forum/#!forum/berkeley-blockchain) to be notified when they are made available.
+
+
 ## Additional Notes
 For students who need computing resources for the class project, we recommend you to look into AWS educate program for students. You’ll get 100 dollar’s worth of sign up credit. Here’s the [link](https://aws.amazon.com/education/awseducate/apply/).
 
