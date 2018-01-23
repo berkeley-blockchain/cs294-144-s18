@@ -75,9 +75,9 @@ Blockchain is one of the most significant technologies to impact law and busines
       <td>What is Money?</td>
       <td>
         <a href="https://is.muni.cz/el/1456/podzim2009/MPE_MOEK/um/8972262/menger1892.pdf">On the Origin of Money</a>,<br />
-        <a href="http://www.nber.org/papers/w19747.pdf">Is Bitcoin a Real Currency? An Economic Appraisal</a>, <br />
-        <a href="http://www.nber.org/papers/w22952.pdf">Some Simple Economics of the Blockchain</a>, <br />
-        <a href="https://www.ccilindia.com/Documents/Rakshitra/2016/May/Article%20Summary.pdf">Digital Currencies, Decentralized Ledgers, And The Future Of Central Banking</a> <br />,
+        <a href="http://www.nber.org/papers/w19747.pdf">Is Bitcoin a Real Currency? An Economic Appraisal</a>,<br />
+        <a href="http://www.nber.org/papers/w22952.pdf">Some Simple Economics of the Blockchain</a>,<br />
+        <a href="https://www.ccilindia.com/Documents/Rakshitra/2016/May/Article%20Summary.pdf">Digital Currencies, Decentralized Ledgers, And The Future Of Central Banking</a>,<br />
         <a href="https://www.clevelandfed.org/newsroom-and-events/publications/economic-commentary/economic-commentary-archives/2004-economic-commentaries/ec-20040201-island-money.aspx">Island Money</a>
       </td>
       <td><a href="./assets/docs/01-blockchain what is money.ppt">Slides</a></td>
