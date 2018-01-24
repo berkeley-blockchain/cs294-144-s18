@@ -245,4 +245,4 @@ Yes. We are recording all lectures and guest panels. Please sign up for our [pub
 For students who need computing resources for the class project, we recommend you to look into AWS educate program for students. You’ll get 100 dollar’s worth of sign up credit. Here’s the [link](https://aws.amazon.com/education/awseducate/apply/).
 
 For convenience, we also have a short URL:
-[http://bit.ly/cs294-144-s18](http://bit.ly/cs294-144-s18)
+[http://bit.ly/berkeley-blockchain](http://bit.ly/berkeley-blockchain)
