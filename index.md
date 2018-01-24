@@ -37,6 +37,10 @@
 
 **Location**: Lectures in Chou N570, Guest Panels in Boalt 110
 
+## Office Hours
+
+- For Adam: [Sign up here](https://calendly.com/adam-b-sterling/adam-sterling-office-hours)
+- For EECS/Haas: TBD
 
 ## Piazza and Mailing List
 
