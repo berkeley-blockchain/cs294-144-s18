@@ -126,7 +126,14 @@ Blockchain is one of the most significant technologies to impact law and busines
     <tr>
       <td>02/12</td>
       <td>Boalt 110</td>
-      <td>Guest Panel on ICOs</td>
+      <td>Guest Panel on ICOs<br />
+        <ul>
+          <li>Kathleen Breitman, Tezos</li>
+          <li>Mitzi Chang, Goodwin Procter</li>
+          <li>Joshua Clayton, Coinlist</li>
+          <li>Alexandra Pack, Bain Capital Ventures</li>
+        </ul>
+      </td>
       <td></td>
       <td></td>
       <td>Project Proposals due 2/18</td>
