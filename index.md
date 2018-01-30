@@ -93,8 +93,14 @@ Blockchain is one of the most significant technologies to impact law and busines
       <td>01/29</td>
       <td>Chou N570</td>
       <td>Technical primer on Bitcoin, cryptocurrencies, smart contracts, and blockchains</td>
-      <td><a href="https://bitcoin.org/bitcoin.pdf">Bitcoin White Paper</a>,<br /><a href="https://github.com/ethereum/wiki/wiki/White-Paper">Ethereum White Paper</a></td>
-      <td></td>
+      <td>
+        <ul>
+          <li><a href="https://bitcoin.org/bitcoin.pdf">Bitcoin White Paper</a></li>
+          <li><a href="https://github.com/ethereum/wiki/wiki/White-Paper">Ethereum White Paper</a></li>
+          <li><a href="http://www.jbonneau.com/doc/BMCNKF15-IEEESP-bitcoin.pdf">SoK: Research Perspectives and Challenges for Bitcoin and Cryptocurrencies</a></li>
+        </ul>
+      </td>
+      <td>Slides: <a href="./assets/docs/02-blockchain-jan-29-2018-v2.pdf">pt1</a>, <a href="./assets/docs/02-smartcontracts-jan-29-2018-v2.pdf">pt2</a></td>
       <td></td>
     </tr>
     <tr>
