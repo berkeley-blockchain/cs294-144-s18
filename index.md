@@ -107,7 +107,19 @@ Blockchain is one of the most significant technologies to impact law and busines
       <td>02/05</td>
       <td>Chou N570</td>
       <td>Finance, Securities and Regulation</td>
-      <td></td>
+      <td>
+        <ul>
+          <li><a href="https://www.sec.gov/answers/about-lawsshtml.html">The Laws That Govern the Securities Industry</a></li>
+          <li><a href="https://supreme.justia.com/cases/federal/us/328/293/case.html">SEC v. Howey Co., 328 U.S. 293 (1946)</a></li>
+          <li><a href="https://www.sec.gov/news/speech/speech-clayton-012218">Opening Remarks at the Securities Regulation Institute</a></li>
+          <li><a href="https://www.wsgr.com/publications/PDFSearch/fintech-update/January2018/">FinTech Update January 2018</a> (please also review hyperlinked content within update)</li>
+          <li><a href="https://www.wsgr.com/publications/PDFSearch/fintech-update/December2017/index.htm">FinTech Update December 2017</a> (please also review hyperlinked content within update)</li>
+          <li><a href="https://www.cooley.com/news/insight/2017/2017-10-24-saft-project-whitepaper">The SAFT Project: Toward a Compliant Token Sale Framework</a></li>
+          <li><a href="https://cardozo.yu.edu/sites/default/files/Cardozo%20Blockchain%20Project%20-%20Not%20So%20Fast%20-%20SAFT%20Response_final.pdf">Not So Fast - Risks Related to the Use of a "SAFT" for Token Sales</a></li>
+          <li><a href="https://www.economist.com/news/finance-and-economics/21735055-china-has-taken-harsh-line-south-korea-contemplates-banning-bitcoin">The threat of tough regulation in Asia sends crypto-currencies into a tailspin</a></li>
+          <li><a href="https://www.marketwatch.com/story/heres-how-the-us-and-the-world-are-regulating-bitcoin-and-cryptocurrency-2017-12-18">Here’s how the U.S. and the world regulate bitcoin and other cryptocurrencies</a></li>
+        </ul>  
+      </td>
       <td></td>
       <td>Team Formation Due 2/5</td>
     </tr>
@@ -131,7 +143,11 @@ Blockchain is one of the most significant technologies to impact law and busines
       <td>02/26</td>
       <td>Chou N570</td>
       <td>Payments</td>
-      <td></td>
+      <td>
+        <ul>
+          <li><a href=""></a></li>
+        </ul>
+      </td>
       <td></td>
       <td></td>
     </tr>
@@ -171,7 +187,11 @@ Blockchain is one of the most significant technologies to impact law and busines
       <td>04/02</td>
       <td>Chou N570</td>
       <td>Advanced Technical Topics and Open Challenges: Scalability, Security, Privacy</td>
-      <td></td>
+      <td>
+        <ul>
+          <li><a href=""></a></li>
+        </ul>
+      </td>
       <td></td>
       <td></td>
     </tr>
@@ -187,7 +207,11 @@ Blockchain is one of the most significant technologies to impact law and busines
       <td>04/16</td>
       <td>Chou N570</td>
       <td>Logistics and Supply Chain</td>
-      <td></td>
+      <td>
+        <ul>
+          <li><a href=""></a></li>
+        </ul>
+      </td>
       <td></td>
       <td></td>
     </tr>
