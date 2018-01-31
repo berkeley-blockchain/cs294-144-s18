@@ -130,7 +130,7 @@ Blockchain is one of the most significant technologies to impact law and busines
         <ul>
           <li>Kathleen Breitman, Tezos</li>
           <li>Mitzi Chang, Goodwin Procter</li>
-          <li>Joshua Clayton, Coinlist</li>
+          <li>Joshua Slayton, Coinlist</li>
           <li>Alexandra Pack, Bain Capital Ventures</li>
         </ul>
       </td>
