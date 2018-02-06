@@ -31,6 +31,10 @@
 | --- |
 | [Howard Wu](https://github.com/howardwu) |
 
+| ![](https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAxVAAAAJDgyN2I5YTVjLWU3OWQtNGI2OS1hY2M1LTA0MjRjMjAyNmE4NA.jpg) |
+| --- |
+| [Nick Zoghb](https://github.com/nzoghb) |
+
 ## Lectures
 
 **Time**: Monday 6:00--8:00 pm
@@ -133,7 +137,7 @@ Blockchain is one of the most significant technologies to impact law and busines
           <li>Kathleen Breitman, Tezos</li>
           <li>Mitzi Chang, Goodwin Procter</li>
           <li>Joshua Slayton, Coinlist</li>
-          <li>Alexandra Pack, Bain Capital Ventures</li>
+          <li>Alexander Pack, Bain Capital Ventures</li>
         </ul>
       </td>
       <td></td>
