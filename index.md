@@ -27,13 +27,9 @@
 
 ## Teaching Assistant
 
-| ![](https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAjAAAAAJGUwMjU4ZmUyLWEwMjktNGIwNy04MjFkLWFkZDZhN2Y3MTc2Zg.jpg) |
-| --- |
-| [Howard Wu](https://github.com/howardwu) |
-
-| ![](https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAxVAAAAJDgyN2I5YTVjLWU3OWQtNGI2OS1hY2M1LTA0MjRjMjAyNmE4NA.jpg) |
-| --- |
-| [Nick Zoghb](https://github.com/nzoghb) |
+| ![](https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAjAAAAAJGUwMjU4ZmUyLWEwMjktNGIwNy04MjFkLWFkZDZhN2Y3MTc2Zg.jpg) | ![](https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAxVAAAAJDgyN2I5YTVjLWU3OWQtNGI2OS1hY2M1LTA0MjRjMjAyNmE4NA.jpg) |
+| --- | --- |
+| [Howard Wu](https://github.com/howardwu) | [Nick Zoghb](https://github.com/nzoghb) |
 
 ## Lectures
 
