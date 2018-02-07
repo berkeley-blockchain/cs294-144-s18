@@ -137,7 +137,7 @@ Blockchain is one of the most significant technologies to impact law and busines
         </ul>
       </td>
       <td></td>
-      <td></td>
+      <td><a href="http://bit.ly/2E9jAqJ">Event URL</a></td>
       <td>Project Proposals due 2/18</td>
     </tr>
     <tr>
@@ -152,11 +152,7 @@ Blockchain is one of the most significant technologies to impact law and busines
       <td>02/26</td>
       <td>Chou N570</td>
       <td>Payments</td>
-      <td>
-        <ul>
-          <li><a href=""></a></li>
-        </ul>
-      </td>
+      <td></td>
       <td></td>
       <td></td>
     </tr>
@@ -171,7 +167,7 @@ Blockchain is one of the most significant technologies to impact law and busines
     <tr>
       <td>03/12</td>
       <td>Chou N570</td>
-      <td>Mid-term Project Presentations</td>
+      <td>FileCoin's Juan Benet and Project Milestone Presentations</td>
       <td></td>
       <td></td>
       <td>Mid-term deadline</td>
@@ -196,11 +192,7 @@ Blockchain is one of the most significant technologies to impact law and busines
       <td>04/02</td>
       <td>Chou N570</td>
       <td>Advanced Technical Topics and Open Challenges: Scalability, Security, Privacy</td>
-      <td>
-        <ul>
-          <li><a href=""></a></li>
-        </ul>
-      </td>
+      <td></td>
       <td></td>
       <td></td>
     </tr>
@@ -216,11 +208,7 @@ Blockchain is one of the most significant technologies to impact law and busines
       <td>04/16</td>
       <td>Chou N570</td>
       <td>Logistics and Supply Chain</td>
-      <td>
-        <ul>
-          <li><a href=""></a></li>
-        </ul>
-      </td>
+      <td></td>
       <td></td>
       <td></td>
     </tr>
