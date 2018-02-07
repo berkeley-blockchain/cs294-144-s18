@@ -86,7 +86,7 @@ Blockchain is one of the most significant technologies to impact law and busines
         <li><a href="https://www.clevelandfed.org/newsroom-and-events/publications/economic-commentary/economic-commentary-archives/2004-economic-commentaries/ec-20040201-island-money.aspx">Island Money</a></li>
           </ul>
       </td>
-      <td><a href="./assets/docs/01-blockchain what is money.ppt">Slides</a></td>
+      <td><a href="./assets/docs/01-blockchain what is money.pdf">Slides</a></td>
       <td></td>
     </tr>
     <tr>
@@ -122,7 +122,7 @@ Blockchain is one of the most significant technologies to impact law and busines
           <li><a href="https://www.marketwatch.com/story/heres-how-the-us-and-the-world-are-regulating-bitcoin-and-cryptocurrency-2017-12-18">Here’s how the U.S. and the world regulate bitcoin and other cryptocurrencies</a></li>
         </ul>  
       </td>
-      <td></td>
+      <td><a href="./assets/docs/03-adam-finance-securities-feb-5-2018.pdf">Slides</a></td>
       <td>Team Formation Due 2/5</td>
     </tr>
     <tr>
