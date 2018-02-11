@@ -159,7 +159,7 @@ Blockchain is one of the most significant technologies to impact law and busines
     <tr>
       <td>03/05</td>
       <td>Boalt 110</td>
-      <td>Guest Panel on Decentralized Applications</td>
+      <td>Guest Panel on "Why blockchain will or will not the change the world?"</td>
       <td></td>
       <td></td>
       <td></td>
