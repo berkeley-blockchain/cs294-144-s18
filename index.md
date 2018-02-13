@@ -137,8 +137,7 @@ Blockchain is one of the most significant technologies to impact law and busines
         </ul>
       </td>
       <td></td>
-      <td><a href="http://bit.ly/2E9jAqJ">Event URL</a></td>
-      <td>Project Proposals due 2/18</td>
+      <td><a href="http://bit.ly/2E9jAqJ">Event URL</a><br/><a href="https://www.reddit.com/r/CS294_144/comments/7w2qfs/uc_berkeley_blockchain_course_guest_panel_series/?st=jdl3qm6v&sh=7525efb0">Reddit URL</a><br/><a href="https://tinyurl.com/icopanel">Stream URL</a></td>      <td>Project Proposals due 2/18</td>
     </tr>
     <tr>
       <td>02/19</td>
@@ -159,7 +158,7 @@ Blockchain is one of the most significant technologies to impact law and busines
     <tr>
       <td>03/05</td>
       <td>Boalt 110</td>
-      <td>Guest Panel on "Why blockchain will or will not the change the world?"</td>
+      <td>Guest Panel on "Why blockchain will or will not change the world?"</td>
       <td></td>
       <td></td>
       <td></td>
