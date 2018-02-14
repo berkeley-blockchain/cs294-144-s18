@@ -100,8 +100,8 @@ Blockchain is one of the most significant technologies to impact law and busines
           <li><a href="http://www.jbonneau.com/doc/BMCNKF15-IEEESP-bitcoin.pdf">SoK: Research Perspectives and Challenges for Bitcoin and Cryptocurrencies</a></li>
         </ul>
       </td>
-      <td>Slides:
-         <!--<a href="./assets/docs/02-blockchain-jan-29-2018-v2.pdf">pt1</a>, <a href="./assets/docs/02-smartcontracts-jan-29-2018-v2.pdf">pt2</a>-->
+      <td><!--Slides:
+         <a href="./assets/docs/02-blockchain-jan-29-2018-v2.pdf">pt1</a>, <a href="./assets/docs/02-smartcontracts-jan-29-2018-v2.pdf">pt2</a>-->
       </td>
       <td></td>
     </tr>
