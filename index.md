@@ -136,8 +136,13 @@ Blockchain is one of the most significant technologies to impact law and busines
           <li>Jordan Clifford, Scalar Capital</li>
         </ul>
       </td>
-      <td></td>
-      <td><a href="http://bit.ly/2E9jAqJ">Event URL</a><br/><a href="https://www.reddit.com/r/CS294_144/comments/7w2qfs/uc_berkeley_blockchain_course_guest_panel_series/?st=jdl3qm6v&sh=7525efb0">Reddit URL</a><br/><a href="https://tinyurl.com/icopanel">Stream URL</a></td>      <td>Project Proposals due 2/18</td>
+      <td><a href="./assets/docs/clifford-cryptoasset-investing.pptx">Cryptoasset Investing</a></td>
+      <td>
+        <a href="https://www.eventbrite.com/e/uc-berkeley-blockchain-course-guest-panel-series-i-ico-panel-tickets-42888454522">Event URL</a><br/>
+        <a href="https://www.reddit.com/r/CS294_144/comments/7w2qfs/uc_berkeley_blockchain_course_guest_panel_series/?st=jdl3qm6v&sh=7525efb0">Reddit URL</a><br/>
+        <a href="https://www.facebook.com/blo.ck.161009/videos/102274300598924/">Stream URL</a>
+      </td> 
+      <td>Project Proposals due 2/18</td>
     </tr>
     <tr>
       <td>02/19</td>
