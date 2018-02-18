@@ -197,16 +197,16 @@ Blockchain is one of the most significant technologies to impact law and busines
     </tr>
     <tr>
       <td>04/09</td>
-      <td>Boalt 110</td>
-      <td>Guest Panel on Future Protocols</td>
+      <td>Chou N570</td>
+      <td>Logistics and Supply Chain</td>
       <td></td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <td>04/16</td>
-      <td>Chou N570</td>
-      <td>Logistics and Supply Chain</td>
+      <td>Boalt 110</td>
+      <td>Guest Panel on Future Protocols</td>
       <td></td>
       <td></td>
       <td></td>
