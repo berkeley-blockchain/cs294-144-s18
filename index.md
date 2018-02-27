@@ -86,7 +86,11 @@ Blockchain is one of the most significant technologies to impact law and busines
         <li><a href="https://www.clevelandfed.org/newsroom-and-events/publications/economic-commentary/economic-commentary-archives/2004-economic-commentaries/ec-20040201-island-money.aspx">Island Money</a></li>
           </ul>
       </td>
-      <td><a href="./assets/docs/01-blockchain what is money.pdf">Slides</a></td>
+      <td>
+        <a href="./assets/docs/01-blockchain what is money.pdf">Slides</a>,
+        <a href="https://berkeley-haas.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c29702dd-1b12-4436-87d4-a87100137a6e
+">Video</a>
+      </td>
       <td></td>
     </tr>
     <tr>
@@ -100,8 +104,14 @@ Blockchain is one of the most significant technologies to impact law and busines
           <li><a href="http://www.jbonneau.com/doc/BMCNKF15-IEEESP-bitcoin.pdf">SoK: Research Perspectives and Challenges for Bitcoin and Cryptocurrencies</a></li>
         </ul>
       </td>
-      <td><!--Slides:
-         <a href="./assets/docs/02-blockchain-jan-29-2018-v2.pdf">pt1</a>, <a href="./assets/docs/02-smartcontracts-jan-29-2018-v2.pdf">pt2</a>-->
+      <td>
+        <!--
+        Slides:
+        <a href="./assets/docs/02-blockchain-jan-29-2018-v2.pdf">pt1</a>,
+        <a href="./assets/docs/02-smartcontracts-jan-29-2018-v2.pdf">pt2</a>,
+        <a href="https://berkeley-haas.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=802e1b00-86f8-4660-bfab-a87100137aa6
+">Video</a>
+        -->
       </td>
       <td></td>
     </tr>
@@ -122,7 +132,11 @@ Blockchain is one of the most significant technologies to impact law and busines
           <li><a href="https://www.marketwatch.com/story/heres-how-the-us-and-the-world-are-regulating-bitcoin-and-cryptocurrency-2017-12-18">Here’s how the U.S. and the world regulate bitcoin and other cryptocurrencies</a></li>
         </ul>  
       </td>
-      <td><a href="./assets/docs/03-adam-finance-securities-feb-5-2018.pdf">Slides</a></td>
+      <td>
+        <a href="./assets/docs/03-adam-finance-securities-feb-5-2018.pdf">Slides</a>, 
+        <a href="https://berkeley-haas.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=34ac0bd4-6fd1-4511-a7a3-a87100137ad0
+">Video</a>
+      </td>
       <td>Team Formation Due 2/5</td>
     </tr>
     <tr>
@@ -140,7 +154,8 @@ Blockchain is one of the most significant technologies to impact law and busines
       <td>
         <a href="https://www.eventbrite.com/e/uc-berkeley-blockchain-course-guest-panel-series-i-ico-panel-tickets-42888454522">Event URL</a><br/>
         <a href="https://www.reddit.com/r/CS294_144/comments/7w2qfs/uc_berkeley_blockchain_course_guest_panel_series/?st=jdl3qm6v&sh=7525efb0">Reddit URL</a><br/>
-        <a href="https://www.facebook.com/blo.ck.161009/videos/102274300598924/">Stream URL</a>
+        <a href="https://www.facebook.com/blo.ck.161009/videos/102274300598924/">Stream URL</a><br/>
+        <a href="https://www.kaltura.com/index.php/extwidget/preview/partner_id/1368891/uiconf_id/25281672/entry_id/0_e18lkakh/embed/iframe?&flashvars[streamerType]=auto">Video</a>
       </td> 
       <td>Project Proposals due 2/18</td>
     </tr>
