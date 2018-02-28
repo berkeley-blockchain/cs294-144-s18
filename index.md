@@ -177,8 +177,8 @@ Blockchain is one of the most significant technologies to impact law and busines
     </tr>
     <tr>
       <td>03/05</td>
-      <td>Chou N570</td>
-      <td>Advanced Technical Topics and Open Challenges: Scalability, Security, Privacy</td>
+      <td>Boalt 110</td>
+      <td>Guest Panel on "Why blockchain will or will not change the world?"</td>
       <td></td>
       <td></td>
       <td></td>
@@ -209,8 +209,8 @@ Blockchain is one of the most significant technologies to impact law and busines
     </tr>
     <tr>
       <td>04/02</td>
-      <td>Boalt 110</td>
-      <td>Guest Panel on "Why blockchain will or will not change the world?"</td>
+      <td>Chou N570</td>
+      <td>Advanced Technical Topics and Open Challenges: Scalability, Security, Privacy</td>
       <td></td>
       <td></td>
       <td></td>
