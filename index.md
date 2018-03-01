@@ -195,11 +195,13 @@ Blockchain is one of the most significant technologies to impact law and busines
       <td>03/19</td>
       <td>Boalt 110</td>
       <td>Guest Panel on Payments<br />
+        <!--
         <ul>
           <li>Balaji Srinivasan (Earn.com, Andreessen Horowitz)</li>
           <li>Michael Dunworth (Wyre)</li>
           <li>Elizabeth Rossiello (BitPesa)</li>
         </ul>
+        -->
       </td>
       <td></td>
       <td></td>
