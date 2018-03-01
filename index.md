@@ -179,7 +179,11 @@ Blockchain is one of the most significant technologies to impact law and busines
       <td>03/05</td>
       <td>Chou N570</td>
       <td>Advanced Technical Topics and Open Challenges: Scalability, Security, Privacy</td>
-      <td></td>
+      <td>
+        <ul>
+        <li><a href="http://ojphi.org/ojs/index.php/fm/article/view/548/469">Formalizing and Securing Relationships on Public Networks</a></li>
+        </ul>
+      </td>
       <td></td>
       <td></td>
     </tr>
