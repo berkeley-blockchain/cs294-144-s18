@@ -210,8 +210,8 @@ Blockchain is one of the most significant technologies to impact law and busines
       <td>
         <a href="https://www.eventbrite.com/e/uc-berkeley-blockchain-course-guest-panel-series-ii-payments-tickets-43774494692">Event URL</a><br/>
         <a href="https://redd.it/81muz0">Reddit URL</a><br/>
-        <a href="">Stream URL</a><br/>
-        <a href="https://www.kaltura.com/index.php/extwidget/preview/partner_id/1368891/uiconf_id/25281672/entry_id/0_e18lkakh/embed/iframe?&flashvars[streamerType]=auto">Video</a>
+        <a>Stream URL (TBD)</a><br/>
+        <a>Video (TBD)</a>
       </td>
       <td></td>
     </tr>
