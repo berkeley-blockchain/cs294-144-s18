@@ -184,7 +184,12 @@ Blockchain is one of the most significant technologies to impact law and busines
         <li><a href="http://ojphi.org/ojs/index.php/fm/article/view/548/469">Formalizing and Securing Relationships on Public Networks</a></li>
         </ul>
       </td>
-      <td></td>
+      <td>
+        <!--
+        <a href="https://berkeley-haas.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8994eca5-8a0a-4240-9376-a87100137b58
+">Video</a>
+        -->
+      </td>
       <td></td>
     </tr>
     <tr>
