@@ -208,7 +208,7 @@ Blockchain is one of the most significant technologies to impact law and busines
           <li>Balaji Srinivasan (Earn.com, Andreessen Horowitz)</li>
           <li>Michael Dunworth (Wyre)</li>
           <li>Elizabeth Rossiello (BitPesa)</li>
-          <li>Tim Swanson (Post Oak Labs)</li>
+          <li>Asheesh Birla (Ripple)</li>
         </ul>
       </td>
       <td></td>
