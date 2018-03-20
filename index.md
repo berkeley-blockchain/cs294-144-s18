@@ -185,6 +185,7 @@ Blockchain is one of the most significant technologies to impact law and busines
         </ul>
       </td>
       <td>
+        <a href="https://bcourses.berkeley.edu/files/72869027/download?download_frd=1">Smart Contract Slides</a>
         <!--
         <a href="https://berkeley-haas.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8994eca5-8a0a-4240-9376-a87100137b58
 ">Video</a>
