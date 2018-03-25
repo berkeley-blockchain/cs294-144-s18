@@ -232,9 +232,20 @@ Blockchain is one of the most significant technologies to impact law and busines
     <tr>
       <td>04/02</td>
       <td>Boalt 110</td>
-      <td>Guest Panel on "Why blockchain will or will not change the world?"</td>
+      <td>Guest Panel on "Why blockchain will or will not change the world?"<br />
+        <ul>
+          <li>Ali Yahya (a16z)</li>
+          <li>Anant Kadiyala (Oracle)</li>
+          <li>Steve Waterhouse (Orchid Labs)</li>
+          <!-- <li></li> -->
+        </ul>
+      </td>
       <td></td>
-      <td></td>
+      <td>
+        <a href="https://bit.ly/2ISFVHu">Event URL</a><br/>
+        <a href="https://redd.it/873rez">Reddit URL</a><br/>
+        <a href="https://www.kaltura.com/index.php/extwidget/preview/partner_id/1368891/uiconf_id/40609852/entry_id/0_df0qmmp1/embed/iframe?&flashvars[streamerType]=auto">Stream URL (TBD)</a><br/>
+      </td>
       <td></td>
     </tr>
     <tr>
