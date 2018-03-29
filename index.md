@@ -237,7 +237,7 @@ Blockchain is one of the most significant technologies to impact law and busines
           <li>Ali Yahya (a16z)</li>
           <li>Anant Kadiyala (Oracle)</li>
           <li>Steve Waterhouse (Orchid Labs)</li>
-          <!-- <li></li> -->
+          <li>Edith Yeung (500 Startups)</li>
         </ul>
       </td>
       <td></td>
