@@ -245,7 +245,7 @@ Blockchain is one of the most significant technologies to impact law and busines
         <a href="https://bit.ly/2ISFVHu">Event URL</a><br/>
         <a href="https://redd.it/873rez">Reddit URL</a><br/>
         <a href="https://www.kaltura.com/index.php/extwidget/preview/partner_id/1368891/uiconf_id/40609852/entry_id/0_df0qmmp1/embed/iframe?&flashvars[streamerType]=auto">Stream URL</a><br/>
-        <a>Video (TBD)</a>
+        <a href="http://www.kaltura.com/tiny/d3t60">Video</a>
       </td>
       <td></td>
     </tr>
