@@ -253,8 +253,20 @@ Blockchain is one of the most significant technologies to impact law and busines
       <td>04/09</td>
       <td>Chou N570</td>
       <td>Logistics and Supply Chain</td>
-      <td></td>
-      <td></td>
+      <td>
+        <ul>
+          <li><a href="https://digitalchamber.org/wp-content/uploads/2018/02/Smart-Contracts-12-Use-Cases-for-Business-and-Beyond_Chamber-of-Digital-Commerce.pdf">Smart Contracts: 12 Use Cases for Business & Beyond</a></li>
+          <li><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2936294">Contracts Ex Machina</a></li>
+          <li><a href="https://www.alexandria.unisg.ch/251095/1/WP29-Blockchain-driven%20supply%20chain%20finance%20Towards%20a%20conceptual%20framework%20from%20a%20buyer%20perspective.pdf">Blockchain-driven supply chain finance</a></li>
+        </ul>
+      </td>
+      <td>
+        <a href="">Slides</a><br/>
+        <!--
+        <a href="
+https://berkeley-haas.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9807c6a1-23fa-4299-9344-a87100137c5a">Video</a>
+        -->
+      </td>
       <td></td>
     </tr>
     <tr>
