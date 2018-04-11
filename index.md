@@ -270,9 +270,16 @@ https://berkeley-haas.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9807c6a1-2
     <tr>
       <td>04/16</td>
       <td>Boalt 110</td>
-      <td>Guest Panel on Future Protocols</td>
+      <td>Guest Panel on Future Protocols<br>
+	      <ul>
+	          <li>Timo Hanke (Dfinity)</li>
+	          <li>Jae Kwon (Tendermint/Cosmos)</li>
+	          <li>Dawn Song (UC Berkeley)</li>
+	        </ul>
+       </td>
       <td></td>
-      <td></td>
+      <td><a href="https://bit.ly/2IJxyNK">Event URL</a><br/>
+      <a href="https://redd.it/8bfclp">Reddit URL</a><br/></td>
       <td></td>
     </tr>
     <tr>
