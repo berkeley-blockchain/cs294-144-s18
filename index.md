@@ -278,7 +278,7 @@ https://berkeley-haas.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9807c6a1-2
 	        </ul>
        </td>
       <td></td>
-      <td><a href="https://bit.ly/2IJxyNK">Event URL</a><br/>
+      <td><a href="https://www.eventbrite.com/e/uc-berkeley-blockchain-course-guest-panel-series-iv-future-protocols-tickets-45054757994">Event URL</a><br/>
       <a href="https://redd.it/8bfclp">Reddit URL</a><br/></td>
       <td></td>
     </tr>
