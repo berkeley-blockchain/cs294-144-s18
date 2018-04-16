@@ -240,7 +240,10 @@ Blockchain is one of the most significant technologies to impact law and busines
           <li>Edith Yeung (500 Startups)</li>
         </ul>
       </td>
-      <td></td>
+      <td> Slides: 
+	  <a href="https://bcourses.berkeley.edu/files/73012015/download?download_frd=1">Anant Kadiyala</a>, 
+	  <a href="https://bcourses.berkeley.edu/files/73012017/download?download_frd=1">Steve Waterhouse</a>
+      </td>
       <td>
         <a href="https://bit.ly/2ISFVHu">Event URL</a><br/>
         <a href="https://redd.it/873rez">Reddit URL</a><br/>
