@@ -240,7 +240,10 @@ Blockchain is one of the most significant technologies to impact law and busines
           <li>Edith Yeung (500 Startups)</li>
         </ul>
       </td>
-      <td></td>
+      <td> Slides: 
+	  <a href="https://bcourses.berkeley.edu/files/73012015/download?download_frd=1">Anant Kadiyala</a>, 
+	  <a href="https://bcourses.berkeley.edu/files/73012017/download?download_frd=1">Steve Waterhouse</a>
+      </td>
       <td>
         <a href="https://bit.ly/2ISFVHu">Event URL</a><br/>
         <a href="https://redd.it/873rez">Reddit URL</a><br/>
@@ -278,8 +281,13 @@ https://berkeley-haas.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9807c6a1-2
 	        </ul>
        </td>
       <td></td>
-      <td><a href="https://bit.ly/2IJxyNK">Event URL</a><br/>
-      <a href="https://redd.it/8bfclp">Reddit URL</a><br/></td>
+      <td>
+	<a href="https://www.eventbrite.com/e/uc-berkeley-blockchain-course-guest-panel-series-iv-future-protocols-tickets-45054757994">Event URL</a><br/>
+     	<a href="https://redd.it/8bfclp">Reddit URL</a><br/>
+	<!--
+	<a href="http://www.kaltura.com/tiny/2c1nf">Video</a><br/>
+	-->
+      </td>
       <td></td>
     </tr>
     <tr>
