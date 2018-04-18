@@ -285,9 +285,17 @@ https://berkeley-haas.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9807c6a1-2
     <tr>
       <td>04/23</td>
       <td>Boalt 110</td>
-      <td>Guest Panel: Blockchain in 2040</td>
+      <td>Guest Panel: Blockchain in 2040<br>
+	      <ul>
+	          <li>Ian Lee (IDEO CoLab)</li>
+	          <li>Kim-Mai Cutler (Initialized Capital)</li>
+	          <li>Tim Swanson (Post Oak Labs)</li>
+	        </ul>
+</td>
       <td></td>
-      <td></td>
+      <td><a href="https://bit.ly/2EXIbde">Event URL</a><br/>
+      <a href="https://redd.it/8d7rdd">Reddit URL</a><br/>
+      </td>
       <td></td>
     </tr>
     <tr>
