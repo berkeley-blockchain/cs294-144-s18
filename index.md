@@ -280,7 +280,9 @@ https://berkeley-haas.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9807c6a1-2
 	          <li>Dawn Song (UC Berkeley)</li>
 	        </ul>
        </td>
-      <td></td>
+      <td>
+      	<a href="https://bcourses.berkeley.edu/files/73062691/download?download_frd=1">Dfinity Slides</a>
+      </td>
       <td>
 	<a href="https://www.eventbrite.com/e/uc-berkeley-blockchain-course-guest-panel-series-iv-future-protocols-tickets-45054757994">Event URL</a><br/>
      	<a href="https://redd.it/8bfclp">Reddit URL</a><br/>
