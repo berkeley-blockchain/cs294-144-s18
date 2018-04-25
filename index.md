@@ -303,8 +303,12 @@ https://berkeley-haas.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9807c6a1-2
 	        </ul>
 </td>
       <td></td>
-      <td><a href="https://bit.ly/2EXIbde">Event URL</a><br/>
-      <a href="https://redd.it/8d7rdd">Reddit URL</a><br/>
+      <td>
+	 <a href="https://bit.ly/2EXIbde">Event URL</a><br/>
+      	 <a href="https://redd.it/8d7rdd">Reddit URL</a><br/>
+	      <!--
+	 <a href="http://www.kaltura.com/tiny/hp0yx">Video</a><br/>
+		-->
       </td>
       <td></td>
     </tr>
